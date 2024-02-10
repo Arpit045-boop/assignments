@@ -1,0 +1,26 @@
+.imgParent{
+    background-image:url("https://media.licdn.com/dms/image/D5616AQE7Kw-mS5qB5Q/profile-displaybackgroundimage-shrink_350_1400/0/1682706366486?e=1712793600&v=beta&t=p44SyHcBDct_J9RMX0VyENEn0OD4bu4h5PM_tJeLHyo");
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 150px;
+}
+.nameage{
+    /* background-color: violet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.city{
+    /* background-color:aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

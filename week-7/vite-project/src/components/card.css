@@ -1,0 +1,8 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: wheat;
+    width: fit-content;
+    margin: auto;
+}

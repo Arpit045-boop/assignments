@@ -1,0 +1,8 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* background-color: tomato; */
+    margin-bottom: 40px;
+}
